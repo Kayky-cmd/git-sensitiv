@@ -25,7 +25,7 @@ def scan_repository(keyword, repo_link, sensitive_mode=False, list_all=False):
 
     # Cabeçalho com token de acesso pessoal (substitua 'SEU_TOKEN' pelo seu token)
     headers = {
-        'Authorization': 'token SEU TOKEN'
+        'Authorization': 'token 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'
     }
 
     # Faça uma solicitação para buscar arquivos no repositório
